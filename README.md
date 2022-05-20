@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @LuSicong22
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Springboot
-- 💞️ I’m looking to collaborate on web development project
+- 🧠 I'm experienced in full stack development with React, Java and Node.js
+- 👀 I’m interested in Blockchain, Crypto and Web3 (WAGMI!)
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on Web3 project
 - 📫 How to reach me: lusicong22@gmail.com
 
 <!---
