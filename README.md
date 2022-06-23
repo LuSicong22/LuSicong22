@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuSicong22
+- 👋 Hi, I’m @LuSicong22. I'm working at PayPal as Backend developer.
 - 🧠 I'm experienced in full stack development with React, Java and Node.js
 - 👀 I’m interested in Blockchain, Crypto and Web3 (WAGMI!)
 - 🌱 I’m currently learning Golang
