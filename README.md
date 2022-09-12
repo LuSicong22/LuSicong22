@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuSicong22. I worked at PayPal as a Backend developer. Now I'm working as a full stack Engineer in a Web3 company.
+- 👋 Hi, I’m @LuSicong22. I worked at PayPal as a Backend developer. Now I'm working for a Web3 company.
 - 🧠 I'm experienced in full stack development with React, Java and Node.js
 - 👀 I’m interested in Blockchain, Crypto and Web3 (WAGMI!)
 - 🌱 I’m currently learning Solidity
