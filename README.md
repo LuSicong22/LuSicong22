@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Simon a.k.a SC, I worked at PayPal as a Backend developer. Now I'm working at a Web3 company.
+- 👋 Hi, I’m Simon, a.k.a SC, I worked at PayPal as a Backend developer. Now I'm working at a Web3 company.
 - 🧠 I'm experienced in full stack development with React, Java and Node.js
 - 👀 I’m passionate about Blockchain, Crypto and Web3 (WAGMI!)
 - 🌱 I’m currently learning Solidity
